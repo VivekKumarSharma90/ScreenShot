@@ -31,7 +31,6 @@ import java.io.FileOutputStream;
 
 public class MainActivity extends AppCompatActivity {
     TextView hello_word;
-    int i=0;
 
     //xkhkzh
     @Override
